@@ -1,0 +1,6 @@
+
+{
+  "name": "Data Dictionary Generator",
+  "description": "Transform raw database exports into comprehensive, well-documented data dictionaries using Gemini AI. Supports CSV, JSON, and raw text inputs.",
+  "requestFramePermissions": []
+}
